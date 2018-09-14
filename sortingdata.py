@@ -5,12 +5,14 @@ print("Sort data alphabetically!")
 names = []
 
 # Handling errors
+# By handling I mean closing the program if anything happens...
 try:
     no_of_names = int(input("Number of words you want to sort out: "))
 except ValueError:
     print("Please enter a number.")
     exit()
 
+# Asking the user if they want their output the be indexed
 is_indexed = input("Do you want the names to have index numbers? y/n: ").lower()
 if is_indexed != 'y' and is_indexed != 'n':
     print("You have entered incorrect info. The names will have indexes as default.")
