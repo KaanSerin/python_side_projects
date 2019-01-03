@@ -1,2 +1,2 @@
-# python_side_projects
-Some of my projects as a beginner python learner
+# Python Side Projects
+Some of my projects as a beginner python learner.
