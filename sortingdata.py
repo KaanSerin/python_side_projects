@@ -1,3 +1,5 @@
+
+#This program sorts out finite number of items(entered by the user) and prints them in two ways
 # The title of the program
 print("Sort data alphabetically!")
 
