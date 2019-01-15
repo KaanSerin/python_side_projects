@@ -14,7 +14,7 @@ c = int(input('C: '))
 # Roots will be calculated inside the function
 def rootcalculator(a, b, c):
     # By root I mean ==> b^2 - 4ac
-    root = b**2 - (4*a*c)
+    root = b**2 - (4 * a * c)
 
     # When there are two solutions
     if root > 0:
