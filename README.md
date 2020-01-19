@@ -12,3 +12,5 @@
     <li> 3: Scissors </li>
   </lu>
 The computer picks at random. Until the user enters -1, the game continues. When -1 is entered, the winner and each players respective scores are printed.
+
+<b>sortingdata.py</b> - Gets a list of names, sorts them, and decides the format of the output. 
