@@ -4,8 +4,7 @@
 
 <b>quadratic_root_calculator.py</b> - Gets constants A, B and C as for a quadratic equation of the form Ax^2 + Bx + C, and returns the root or roots for it(as an integer or a tuple).
 
-<b>rock_paper_scissors_game.py</b> - Gets user input and maps it to: 
-<lu>
+<b>rock_paper_scissors_game.py</b> - Gets user input and maps it to: <lu>
   <li> 1: Rock </li>
   <li> 2: Paper </li>
   <li> 3: Scissors </li>
